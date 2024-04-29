@@ -1,0 +1,144 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 12,
+  "numPassedTests": 12,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1714416737453,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " \"Sayı: 0 çift sayıdır\" yazısı ile başlıyor.",
+          "status": "passed",
+          "title": "\"Sayı: 0 çift sayıdır\" yazısı ile başlıyor.",
+          "duration": 30,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç metninin rengi royal blue.",
+          "status": "passed",
+          "title": "Başlangıç metninin rengi royal blue.",
+          "duration": 27,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna basılınca sayı 1er 1er artıyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna basılınca sayı 1er 1er artıyor",
+          "duration": 11,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna 1 kez basılınca metin \"Sayı: 1 tek sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna 1 kez basılınca metin \"Sayı: 1 tek sayıdır\" oluyor",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna 2 kez basılınca metin \"Sayı: 2 çift sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna 2 kez basılınca metin \"Sayı: 2 çift sayıdır\" oluyor",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna basılınca sayı 1er 1er azaltıyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna basılınca sayı 1er 1er azaltıyor",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna 1 kez basılınca metin \"Sayı: -1 tek sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna 1 kez basılınca metin \"Sayı: -1 tek sayıdır\" oluyor",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna 2 kez basılınca metin \"Sayı: -2 çift sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna 2 kez basılınca metin \"Sayı: -2 çift sayıdır\" oluyor",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Çift sayılarda metin rengi royal blue oluyor",
+          "status": "passed",
+          "title": "Çift sayılarda metin rengi royal blue oluyor",
+          "duration": 10,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tek sayılarda metin rengi crimson oluyor",
+          "status": "passed",
+          "title": "Tek sayılarda metin rengi crimson oluyor",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butonu sayıyı sıfırlıyor",
+          "status": "passed",
+          "title": "Reset butonu sayıyı sıfırlıyor",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butonu'na basınca metin 'Sayı: 0 çift sayıdır' oluyor",
+          "status": "passed",
+          "title": "Reset butonu'na basınca metin 'Sayı: 0 çift sayıdır' oluyor",
+          "duration": 8,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1714416779428,
+      "endTime": 1714416779565,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-hungbz/src/__tests__/Sayac.test.jsx"
+    }
+  ]
+}
